@@ -20,3 +20,6 @@ Usage of this api should follow something close to what's described below
 3. The timetables are session based, so stopping the server wipes any last remaining.
 4. Create a timetable by [/create](http://localhost:8000/create)
 5. Retrieve a timetable in JSON by [/timetables/{index}](http://localhost:8000/timetable/0)
+
+# Warning
+There's been a new change in JSON response for classes that are split for classes.
