@@ -1,0 +1,57 @@
+{
+	"semester": 6,
+	"department": "CSE",
+	"course_mapping": [
+		{
+			"course_no": "CST 302",
+			"internal_code": "CD",
+			"teacher_codes": ["J"]
+		},
+		{
+			"course_no": "CST 304",
+			"internal_code": "CGIP",
+			"teacher_codes": ["BAO"]
+		},
+		{
+			"course_no": "CST 306",
+			"internal_code": "AAD",
+			"teacher_codes": ["NVM"]
+		},
+		{
+			"course_no": "CST 362",
+			"internal_code": "PIP",
+			"teacher_codes": ["AMA"]
+		},
+		{
+			"course_no": "HUT 300",
+			"internal_code": "ECO",
+			"teacher_codes": ["MB"]
+		},
+		{
+			"course_no": "CST 308",
+			"internal_code": "COMPRE",
+			"teacher_codes": ["SO", "AMA", "AV", "DS", "SM", "NVM"]
+		},
+		{
+			"course_no": "CSL 332",
+			"internal_code": "NW LAB",
+			"teacher_codes": ["SM", "AMA", "MB"],
+			"venue": "NW LAB",
+			"shared": true,
+			"other": "CSD 334"
+		},
+		{
+			"course_no": "CSD 334",
+			"internal_code": "MINI PROJECT",
+			"teacher_codes": ["AV", "NVM"],
+			"venue": "OS LAB",
+			"shared": true,
+			"other": "CSL 332"
+		},
+		{
+			"course_no": "VAC",
+			"internal_code": "VAC",
+			"teacher_codes": []
+		}
+	]
+}

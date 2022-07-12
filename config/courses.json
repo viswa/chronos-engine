@@ -1,0 +1,51 @@
+{
+    "year": 3,
+    "department": "CSE",
+    "courses": [
+        {
+            "course_no": "CST 302",
+            "course_name": "Compiler Design",
+            "credit": 4
+        },
+        {
+            "course_no": "CST 304",
+            "course_name": "Computer Graphics and Image Processing",
+            "credit": 4
+        },
+        {
+            "course_no": "CST 306",
+            "course_name": "Algorithm Analysis and Design",
+            "credit": 4
+        },
+        {
+            "course_no": "CST 362",
+            "course_name": "Programming in Python",
+            "credit": 3
+        },
+        {
+            "course_no": "HUT 300",
+            "course_name": "Industrial Economics & Foreign Trade",
+            "credit": 3
+        },
+        {
+            "course_no": "CST 308",
+            "course_name": "Comprehensive Course Work",
+            "credit": 1
+        },
+        {
+            "course_no": "CSL 332",
+            "course_name": "Networking Lab",
+            "credit": 2
+        },
+        {
+            "course_no": "CSD 334",
+            "course_name": "Miniproject",
+            "credit": 2
+        },
+        {
+            "course_no": "VAC",
+            "course_name": "Remedial/Minor/Honors course",
+            "credit": 4
+        }
+    ]
+}
